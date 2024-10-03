@@ -4,7 +4,7 @@ JuniorTechSystem/JuniorTechSystem is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 # 👋 Hello Devs! Welcome to my Github profile.
-## My name is Gelson and my nickname is Junior!
+
 
 ## Introduction
  I am a passionate software developer currently studying Systems Analysis and Development. I am in the process of a career transition, driven by my long-standing love for technology. With a background in business management and experience as a key user in my previous profession, I bring a unique perspective to the tech world. I am highly motivated to build a new chapter as a developer and excited about the journey ahead. Let´s go ahead!!! :smiley:
