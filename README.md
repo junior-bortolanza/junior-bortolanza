@@ -8,7 +8,6 @@ You can click the Preview link to take a look at your changes.
 
 ## Introduction
  Hi there! Here’s a little about me:
-
     🎓 I’m currently studying Systems Analysis and Development at Uninter University.
     🚀 I’m transitioning into a career in software development, fueled by my passion for technology and problem-solving.
     💼 My background in business management and experience as a key user taught me to connect technical solutions with real-world challenges.
