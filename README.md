@@ -9,15 +9,15 @@ You can click the Preview link to take a look at your changes.
 ## Introduction
  <h4>Hi there! Here’s a little about me:</h4><br>
  
-   🎓 I’m currently studying Systems Analysis and Development at Uninter University.<br>
-   
-   🚀 I’m transitioning into a career in software development, fueled by my passion for technology and problem-solving.<br>
-   
-   💼 My background in business management and experience as a key user taught me to connect technical solutions with real-world challenges.<br>
-   
-   🎯 My main goal is to learn and grow as a back-end developer, mastering programming languages, frameworks, and system architecture.<br>
-    
-   🌟 I’m excited to embrace new challenges, build impactful projects, and collaborate with others in the tech community.<br>
+🎓 I’m currently studying Systems Analysis and Development.
+
+🚀 Transitioning from over a decade in business management into software development, driven by a passion for technology, problem-solving, and process optimization.
+
+💻 Focused on becoming a skilled back-end developer, mastering programming languages, frameworks, and system architecture.
+
+🌟 I enjoy learning, building impactful projects, and collaborating with the tech community.
+
+🤝 Let’s connect, share knowledge, and grow together!<br>
 
 Let’s connect and grow together on this exciting journey! 😊
 
