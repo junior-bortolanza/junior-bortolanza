@@ -9,17 +9,11 @@ You can click the Preview link to take a look at your changes.
 ## Introduction
  <h4>Hi there! Here’s a little about me:</h4><br>
  
-🎓 I’m currently studying Systems Analysis and Development.
-
-🚀 Transitioning from over a decade in business management into software development, driven by a passion for technology, problem-solving, and process optimization.
-
-💻 Focused on becoming a skilled back-end developer, mastering programming languages, frameworks, and system architecture.
-
-🌟 I enjoy learning, building impactful projects, and collaborating with the tech community.
-
-🤝 Let’s connect, share knowledge, and grow together!<br>
-
-Let’s connect and grow together on this exciting journey! 😊
+🎓 Studying Systems Analysis and Development
+💻 I'm passionate about back-end development, especially working with Python, Java, and relational databases.
+⚙️ I enjoy designing efficient systems, solving real-world problems with code, and continuously improving my technical skills.
+🌱 Always learning and building projects to grow as a developer and contribute to the tech community.
+🚀 Let’s connect and build amazing things together!<br>
 
 ## Languages and Tools:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" witdh="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" witdh="40" height="40" />
