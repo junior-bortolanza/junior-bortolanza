@@ -10,9 +10,13 @@ You can click the Preview link to take a look at your changes.
  <h4>Hi there! Here’s a little about me:</h4><br>
  
 🎓 Studying Systems Analysis and Development
+
 💻 I'm passionate about back-end development, especially working with Python, Java, and relational databases.
+
 ⚙️ I enjoy designing efficient systems, solving real-world problems with code, and continuously improving my technical skills.
+
 🌱 Always learning and building projects to grow as a developer and contribute to the tech community.
+
 🚀 Let’s connect and build amazing things together!<br>
 
 ## Languages and Tools:
