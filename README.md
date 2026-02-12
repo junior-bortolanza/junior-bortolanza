@@ -1,18 +1,9 @@
 
-<!---
-JuniorTechSystem/JuniorTechSystem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# 👋 Hello Devs! Welcome to my Github profile.
-
-
 # Hi, I'm Junior 👋
 
 Backend-focused developer passionate about building structured APIs and scalable systems.
 
 I enjoy working on real-world backend problems, designing clean architectures, and continuously improving my engineering skills.
-
----
 
 ## Backend Focus
 
@@ -23,8 +14,6 @@ I enjoy working on real-world backend problems, designing clean architectures, a
 - Authentication & authorization (JWT)
 - Clean architecture principles
 
----
-
 ## Currently Improving
 
 - Advanced Spring Boot patterns
@@ -33,15 +22,12 @@ I enjoy working on real-world backend problems, designing clean architectures, a
 - Cloud basics (AWS)
 - System design concepts
 
----
-
 ## Fun Facts
 
 - Focused on backend engineering
 - Interested in scalable systems
-- ##Hobbies:## Gym & Cycling
+- Hobbies: Gym & Cycling
 
----
 ## Languages and Tools:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" witdh="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" witdh="40" height="40" />
 
@@ -49,15 +35,7 @@ I enjoy working on real-world backend problems, designing clean architectures, a
 <a href="https://github.com/junior-bortolanza">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junior-bortolanza&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=junior-bortolanza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-          
-
-
-          
-
-                   
- 
-          
+</div>      
           
 
 ## Reach me
