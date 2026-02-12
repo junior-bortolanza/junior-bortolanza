@@ -6,19 +6,42 @@ You can click the Preview link to take a look at your changes.
 # 👋 Hello Devs! Welcome to my Github profile.
 
 
-## Introduction
- <h4>Hi there! Here’s a little about me:</h4><br>
- 
-🎓 Studying Systems Analysis and Development
+# Hi, I'm Junior 👋
 
-💻 I'm passionate about back-end development, especially working with Python, Java, and relational databases.
+Backend-focused developer passionate about building structured APIs and scalable systems.
 
-⚙️ I enjoy designing efficient systems, solving real-world problems with code, and continuously improving my technical skills.
+I enjoy working on real-world backend problems, designing clean architectures, and continuously improving my engineering skills.
 
-🌱 Always learning and building projects to grow as a developer and contribute to the tech community.
+---
 
-🚀 Let’s connect and build amazing things together!<br>
+## Backend Focus
 
+- Java (Spring Boot)
+- Python (FastAPI / Django)
+- RESTful API design
+- SQL & relational database modeling
+- Authentication & authorization (JWT)
+- Clean architecture principles
+
+---
+
+## Currently Improving
+
+- Advanced Spring Boot patterns
+- Microservices fundamentals
+- Docker & deployment
+- Cloud basics (AWS)
+- System design concepts
+
+---
+
+## Fun Facts
+
+- Focused on backend engineering
+- Interested in scalable systems
+- ##Hobbies:## Gym & Cycling
+
+---
 ## Languages and Tools:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" witdh="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" witdh="40" height="40" />
 
