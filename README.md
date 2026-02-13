@@ -1,7 +1,7 @@
 
 # Hi, I'm Junior 👋
 
-Backend-focused developer passionate about building structured APIs and scalable systems.
+Backend Developer focused on building structured REST APIs with Spring Boot and FastAPI.
 
 I enjoy working on real-world backend problems, designing clean architectures, and continuously improving my engineering skills.
 
