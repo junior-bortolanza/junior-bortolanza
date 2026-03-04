@@ -1,14 +1,13 @@
 
 # Hi, I'm Junior 👋
 
-Backend Developer focused on building structured REST APIs with Spring Boot and FastAPI.
+Backend Developer focused on building structured REST APIs with Java with Spring Boot
 
 I enjoy working on real-world backend problems, designing clean architectures, and continuously improving my engineering skills.
 
 ## Backend Focus
 
 - Java (Spring Boot)
-- Python (FastAPI / Django)
 - RESTful API design
 - SQL & relational database modeling
 - Authentication & authorization (JWT)
