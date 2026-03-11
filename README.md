@@ -7,6 +7,7 @@ I enjoy working on real-world backend problems, designing clean architectures, a
 
 ## Backend Focus
 
+- Python (Flask, FastAPI)
 - Java (Spring Boot)
 - RESTful API design
 - SQL & relational database modeling
@@ -16,6 +17,7 @@ I enjoy working on real-world backend problems, designing clean architectures, a
 ## Currently Improving
 
 - Advanced Spring Boot patterns
+- Python backend architecture
 - Microservices fundamentals
 - Docker & deployment
 - Cloud basics (AWS)
